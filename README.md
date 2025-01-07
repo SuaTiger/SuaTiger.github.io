@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,11 +35,17 @@
         a:hover {
             text-decoration: underline;
         }
-        .contact-info {
+        .contact-info, .projects {
             margin-bottom: 20px;
         }
-        .projects {
+        .profile-image {
+            text-align: center;
             margin-bottom: 20px;
+        }
+        .profile-image img {
+            border-radius: 10px;
+            max-width: 150px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         }
         footer {
             text-align: center;
@@ -54,6 +59,10 @@
         <h1>Profile: Sittipong Klaewkla</h1>
     </header>
     <div class="container">
+        <section class="profile-image">
+            <img src="/mnt/data/รูปบัตรนิสิต.jpg" alt="Sittipong Klaewkla">
+        </section>
+
         <section>
             <h2>Personal Information</h2>
             <p><strong>Full Name:</strong> Sittipong Klaewkla</p>
