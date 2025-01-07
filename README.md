@@ -57,7 +57,7 @@
         <section>
             <h2>Personal Information</h2>
             <p><strong>Full Name:</strong> Sittipong Klaewkla</p>
-            <p><strong>Nickname:</strong> Suea</p>
+            <p><strong>Nickname:</strong> Sua</p>
             <p><strong>Date of Birth:</strong> December 29, 2002</p>
             <p><strong>Faculty:</strong> Science, Sriracha Campus</p>
             <p><strong>Major:</strong> Computer Science</p>
