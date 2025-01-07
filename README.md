@@ -60,7 +60,7 @@
     </header>
     <div class="container">
         <section class="profile-image">
-            <img src="/mnt/data/รูปบัตรนิสิต.jpg" alt="Sittipong Klaewkla">
+            <img src="/image/รูปบัตรนิสิต.jpg" alt="Sittipong Klaewkla">
         </section>
 
         <section>
